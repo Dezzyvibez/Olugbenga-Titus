@@ -21,9 +21,9 @@ I build scalable web applications and automated systems. Currently, I'm focused 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dezzyvibez&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with me:
-[Upwork Profile](YOUR_UPWORK_LINK) | [LinkedIn](YOUR_LINKEDIN_LINK)
+[Upwork Profile]https://www.upwork.com/freelancers/~012d08346afc6df93a?mp_source=share | [LinkedIn](YOUR_LINKEDIN_LINK)
